@@ -29,7 +29,7 @@ public class CardTrick {
         System.out.println("Enter the card number :");
         int cardnumb = Sk.nextInt();
         System.out.println("Enter the suits");
-        String Sutiss = Sk.nextLine();
+        String Sutiss = Sk.next();
         
         boolean Checker = false;
 
